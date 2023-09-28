@@ -11,3 +11,4 @@ John-doe
 copy one files permissions to another
 permissions to all subdirectories
 create directory with permissions
+change group name
