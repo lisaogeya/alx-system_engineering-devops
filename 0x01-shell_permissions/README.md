@@ -15,3 +15,4 @@ change group name
 change owner and group
 symbolic link permissions
 changing owner only if there is a specific owner
+starwars
