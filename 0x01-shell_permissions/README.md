@@ -13,3 +13,4 @@ permissions to all subdirectories
 create directory with permissions
 change group name
 change owner and group
+symbolic link permissions
