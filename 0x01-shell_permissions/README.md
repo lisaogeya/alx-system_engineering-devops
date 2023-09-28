@@ -4,3 +4,4 @@ printing groups of current user
 changing owner of file
 empty file
 execute permissions to owner
+execute permissions to owner and groups
