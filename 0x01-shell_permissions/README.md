@@ -6,3 +6,4 @@ empty file
 execute permissions to owner
 execute permissions to owner and groups
 permissions to all users
+only permissions to other users
